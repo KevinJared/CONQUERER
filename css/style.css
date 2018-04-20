@@ -23,7 +23,15 @@ img{
   width: 350px;
 }
 li{
-
+  object-fit: cover;
+  width: 18%;
+  text-align: center;
+  display: inline-block;
+  padding: 5px;
+  color: blue;
+  background: linear-gradient(to top, #e6e6ff, #99ccff);
+  text-overflow: clip;
+  border-style: inset;
 }
 body{
   background-image: url("/home/kevin/SITES/CONQUERER/image/backgroundimage.jpg");
