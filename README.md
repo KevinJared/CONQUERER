@@ -8,5 +8,4 @@ HTML, css
 ## Support and contact details
 kevinjaredkip@gmail.com tel:+254700851292
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) 2018
