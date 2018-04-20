@@ -2,7 +2,7 @@
 ## current version . V1.0
 #### By ** KEVIN JARED**
 ## Description
-This website is "About me" it gives details of my background a list of projects and what language they {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This website is "About me" it gives details of my background and a list of projects and what language they have been created from.
 ## Technologies Used
 HTML, css
 ## Support and contact details
